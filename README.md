@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![snake gif](https://github.com/fixri46/fixri46/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/fixri46/fixri46/blob/output/github-contribution-grid-snake.svg)
