@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Now Playing...
+Now Playing...:musical_note:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12121577977&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/12121577977)
 
