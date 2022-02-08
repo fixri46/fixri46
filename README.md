@@ -2,7 +2,7 @@
 
 Now Playing...
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=12121577977&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=12121577977&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=true)]]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12121577977&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <!--
 **fixri46/fixri46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
