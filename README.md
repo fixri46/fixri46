@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-There's a :snake: on my contribution! 
+<!--There's a :snake: on my contribution! 
 ![snake gif](https://github.com/fixri46/fixri46/blob/output/github-contribution-grid-snake.svg)
+-->
