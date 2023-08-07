@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-Now Playing...:musical_note:
+<p align="center">
+Now Playing...:musical_note: 
+</p>
 
 <p align="center">
-  <a href="https://github.com/fixri46">
+  <a href="https://open.spotify.com/user/12121577977">
    <img src="https://spotify-github-profile.vercel.app/api/view?uid=12121577977&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false"/>
 </p>
 <!--[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12121577977&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/12121577977)-->
