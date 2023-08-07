@@ -2,7 +2,11 @@
 
 Now Playing...:musical_note:
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12121577977&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/12121577977)
+<div>
+  <a href="https://github.com/fixri46">
+   <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=12121577977&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false"/>
+</div>
+<!--[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12121577977&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/12121577977)-->
 
 <!--
 **fixri46/fixri46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
