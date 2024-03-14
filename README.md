@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-Now Playing...:musical_note: 
+Now Playing...🎵 
 </p>
 
 <p align="center">
